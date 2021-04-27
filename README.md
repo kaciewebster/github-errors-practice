@@ -40,7 +40,26 @@ git push
 
 This error is usually caused when there were some changes to the remote repository that you are trying to pull but they interfere will changes you've made to your local repository.
 
-Example: Pulling the lectures.
+Example: Pulling the DSI lectures.
+
+**Solution**
+
+1. In your terminal within the repository, run these commands
+
+```python
+# Save your local changes aside and revert your working repository back to the original.
+git stash
+
+# Pull the new changes to your local repository.
+git pull
+
+# Add the changes that you stashed back into your working repository.
+git stash pop
+```
+
+Solution was posted in Slack by Ryan
+
+##
 
 ## Resources
 
