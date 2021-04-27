@@ -50,14 +50,14 @@ Example: Pulling the DSI lectures.
 # Save your local changes aside and revert your working repository back to the original.
 git stash
 
-# Pull the new changes to your local repository.
+# Pull the new changes to your working repository.
 git pull
 
 # Add the changes that you stashed back into your working repository.
 git stash pop
 ```
 
-Solution was posted in Slack by Ryan
+Solution was posted in Slack by Ryan.
 
 ##
 
