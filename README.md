@@ -1,4 +1,4 @@
-# Common GitHub Errors
+# Git Practice
 
 ![](https://imgs.xkcd.com/comics/git_2x.png)
 
@@ -36,7 +36,11 @@ git push
 
 [Solution Link](https://stackoverflow.com/questions/32953238/how-can-i-ignore-big-files-and-push-to-git-repo)
 
-##
+## "Your local changes to the following files would be overwritten by merge ..."
+
+This error is usually caused when there were some changes to the remote repository that you are trying to pull but they interfere will changes you've made to your local repository.
+
+Example: Pulling the lectures.
 
 ## Resources
 
