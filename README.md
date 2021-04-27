@@ -8,7 +8,7 @@ This error is caused by trying to push a file that is over 100 MB, which is the 
 
 Example: Try to add and push this [data](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks). It should fail.
 
-**Solutions**
+**Solution**
 
 **Use this solution if your file was pushed for the first time in your last commit:**
 
@@ -36,5 +36,10 @@ git push
 
 [Solution Link](https://stackoverflow.com/questions/32953238/how-can-i-ignore-big-files-and-push-to-git-repo)
 
-**Use this solution if your file was pushed multiple times:**
+##
 
+## Resources
+
+[Git Commands Cheat Sheet](https://gist.github.com/jedmao/5053440)
+
+[Common Git Problems and Solutions](https://www.geeksforgeeks.org/common-git-problems-and-their-fixes/)
