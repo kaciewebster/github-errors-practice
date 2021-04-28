@@ -84,6 +84,10 @@ git pull upstream master
 
 ## Resources
 
-[Git Commands Cheat Sheet](https://www.hostinger.com/tutorials/basic-git-commands)
+[Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
-[Common Git Problems and Solutions](https://www.geeksforgeeks.org/common-git-problems-and-their-fixes/)
+[Basic Git Commands](https://www.hostinger.com/tutorials/basic-git-commands)
+
+[Solutions to Common Git Problems](https://medium.com/@bellex0/git-reference-guide-solutions-to-common-git-issues-cb375972a367)
+
+[Common Git Problems and their Fixes](https://www.geeksforgeeks.org/common-git-problems-and-their-fixes/)
