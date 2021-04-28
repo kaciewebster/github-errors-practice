@@ -59,10 +59,10 @@ git stash pop
 
 Solution was posted in Slack by Ryan.
 
-##
+## Third problem
 
 ## Resources
 
-[Git Commands Cheat Sheet](https://gist.github.com/jedmao/5053440)
+[Git Commands Cheat Sheet](https://www.hostinger.com/tutorials/basic-git-commands)
 
 [Common Git Problems and Solutions](https://www.geeksforgeeks.org/common-git-problems-and-their-fixes/)
