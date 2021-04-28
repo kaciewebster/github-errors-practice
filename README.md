@@ -1,5 +1,7 @@
 # Git Practice
 
+A helpful guide to some common problems I've seen using Git, along with some great resources!
+
 ![](https://imgs.xkcd.com/comics/git_2x.png)
 
 ## "Large files detected ... error: failed to push some refs to ..."
