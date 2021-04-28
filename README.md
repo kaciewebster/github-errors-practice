@@ -59,7 +59,28 @@ git stash pop
 
 Solution was posted in Slack by Ryan.
 
-## Third problem
+## You forked a repository and want to pull the changes from the original repository.
+
+This isn't so much a problem but a situation that I've seen some students come across. When you fork a repository, you are taking a snapshot of the original and working off of that. A git pull won't be able to pull any changes that are made to the original repository.
+
+Example: Forking the DSI lectures and then cloning it to your local machine.
+
+**Solution**
+
+1. In your terminal within the repository, run these commands
+
+```python
+# Adds an upstream path to the original repository that you forked from.
+git remote add upstream <original repository url>
+
+# Downloads changes, but doesn't add them to your local respository.
+git fetch upstream
+
+# Pulls those changes into your local repository.
+git pull upstream master
+```
+
+[Solution Link](https://gist.github.com/CristinaSolana/1885435)
 
 ## Resources
 
